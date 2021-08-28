@@ -1,0 +1,245 @@
+body{
+    background-color:  black;
+    
+}
+.biography{
+    font-size: 85px;
+    color: pink;
+    text-align: center;
+}
+.jemma{
+    font-size: 20px;
+    color: pink;
+    text-align: center;
+}
+.content{
+    color: white;
+   margin-left: 16%;
+   margin-right: 17%;
+   font-size: 20px;
+}
+.facebook{
+    width: 24px;
+    height: 45px;
+}
+.twitter{
+    width: 64px;
+    height: 55px;
+    padding-left: 50px;
+    padding-top: 9px;
+}
+.insta{
+    width: 40px;
+    height: 40px;
+    padding-left: 50px;
+}
+.we{
+    color: pink;
+    margin-top: 130px;
+    margin-left: 20%;
+    line-height: 0px;
+    font-weight: bold;
+}
+.logo{
+    text-align: center;
+}
+.we1{
+    font-size: 50px;
+}
+.collaborate{
+    font-size: 50px;
+}
+.with{
+    font-size: 50px;
+}
+.and{
+    font-size: 50px;
+}
+.create{
+    font-size: 50px;
+}
+.memorables{
+    font-size: 50px;
+}
+.experiences{
+    font-size: 50px;
+}
+.container{
+    display: grid;
+grid-template-columns: 700px 500px;
+grid-gap: 3px;
+}
+.sample{
+color: white;
+margin-left: 0%;
+line-height: 10px;
+font-size: 23px;
+}
+.dwell{
+    color: pink;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 145px;
+    margin-right: 0%;
+}
+.the{
+    color: white;
+}
+.circle{
+    display: flex;
+    color: white;
+    font-weight: bold;
+}
+.chat{
+    padding-left: 6px;
+}
+.one{
+    color: white;
+    text-align: center;
+    margin-top: 210px;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.people{
+    color: pink;
+   font-size: 40px;
+   font-weight: bolder;
+   line-height: 19px;
+   border-top: solid 2px white;
+   margin-left: 20%;
+   margin-right: 20%;
+}
+.we-design{
+    text-align: center;
+}
+.experiences-that{
+    text-align: center;
+}
+.change-in{
+    text-align: center;
+}
+.view{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 29px;
+    color: pink;
+}
+.images{
+    width: 5px;
+    height: 5px;
+    margin-left: 15%;
+    display: grid;
+    grid-template-columns: 320px 320px 320px;
+    grid-template-rows: 320px 320px;
+    margin-top: 150px;
+}
+.border-one{
+   
+    border-radius: 15px 15px 15px 15px;
+}
+.girl-one{
+    text-align: center;
+    line-height: 0px;
+}
+.border-two{
+    border: solid 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+.border-three{
+    border: solid 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+.border-four{
+    border: solid 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+.border-five{
+    border: solid 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+.border-six{
+    border: solid 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+.learn{
+    padding-top: 22px;
+    padding-bottom: 22px;
+    padding-left: 75px;
+    padding-right: 75px;
+    margin-top: 700px;
+    border: solid 1px pink;
+    background-color: black;
+    font-size: 15px;
+    color: pink;
+}
+.learn-button{
+    text-align: center;
+
+}
+.bring{
+color: pink;
+font-weight: bold;
+}
+.living{
+    color: white;
+}
+.living-life{
+    color: white;
+}
+.container-one{
+    margin-top: 140px;
+    margin-left: 12%;
+    display: grid;
+    grid-template-columns: 500px 500px;
+    grid-template-rows: 300px;
+    font-size: 19px;
+    grid-gap: 43px;
+}
+.info{
+    font-size: 54px;
+    color: pink;
+    text-align: center;
+    margin-top: 220px;
+}
+.phone{
+    height: 30px;
+    width: 19px;
+    margin-top: 25px;
+}
+.contact{
+    text-align: center;
+    color: white;
+    display: flex;
+    margin-left: 41%;
+}
+.number{
+    padding-left: 10px;
+    font-size: 27px;
+}
+.lady-pic{
+    text-align: center;
+}
+.location{
+    color: pink;
+    text-align: center;
+    font-size: 29px;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.address{
+    color: white;
+    text-align: center;
+    font-size: larger;
+    margin-left: 42%;
+    margin-right: 42%;
+    border-bottom: solid 8px pink;
+    margin-bottom: 50px;
+}
+.oip-image{
+    height: 170px;
+    width: 49px;
+}
+.oip{
+    text-align: center;
+}
